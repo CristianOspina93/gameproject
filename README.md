@@ -1,2 +1,3 @@
 # JavaScript & NodeJS game
-# Based of the SAW movies!
+# Playing with readline sync and JS switch statements
+
